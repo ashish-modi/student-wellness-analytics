@@ -2,6 +2,10 @@
 
 Predicts a student's mental health score (0–10) from their social media use, sleep, study, physical activity and stress. A scikit-learn model trained on 5,000 students, served through a FastAPI endpoint, with an interactive web UI for what-if analysis.
 
+**🔗 Live demo: [student-wellness-analytics-web.onrender.com](https://student-wellness-analytics-web.onrender.com/)**
+
+> Hosted on Render's free plan: if the app has been idle, the first prediction can take 30–60 seconds while the server wakes up.
+
 > This is an educational ML project, not a clinical assessment tool.
 
 ## Features
